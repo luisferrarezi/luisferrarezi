@@ -4,7 +4,7 @@ Experience since 2004 in developing targeting different segments, using relation
 
 Programming Languages: Delphi, Java, JavaScript, AngularJs.\
 Frameworks: JSP, JSF, Maven, Mockito, JUnit.\
-Version control: SVN, GitHub and GitLab.\
+Version control: SVN, GitHub and GitLab.
 
 Databases: SQL Server, FireBird and Oracle, always using database programming using trigger, procedures and views.
 

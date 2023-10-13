@@ -19,7 +19,7 @@ Work Methodology: MVC, Scrum
 Technical Knowledge:\
 Frameworks: JUnit, Flyway\
 Messaging: RabbitMQ\
-Work Methodology: TDD, BDD, Clean Architecture, SOLID
+Work Methodology: TDD, BDD, DDD, Clean Architecture, Hexagonal Architecture, SOLID
 
 Guys who came because Github Stats: the API probably went down in this period, but you can add your own by following this [tutorial](https://github.com/anuraghazra/github-readme-stats#readme).
 

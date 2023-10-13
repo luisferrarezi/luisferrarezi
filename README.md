@@ -14,7 +14,7 @@ Frameworks: JSP, JSF, Maven, Mockito, Spring, Rest, SOAP\
 Version control: SVN, GitHub and GitLab\
 DataBase Connections: JDBC, JPA\
 Databases: SQL Server, FireBird and Oracle, always using database programming.\
-Work Methodology: MVC, Scrum\
+Work Methodology: MVC, Scrum
 
 Technical Knowledge:\
 Frameworks: JUnit, Flyway\

@@ -2,13 +2,24 @@
 
 Experience since 2004 in developing targeting different segments, using relational database.
 
-Programming Languages: Delphi, Java, JavaScript, AngularJs.\
-Frameworks: JSP, JSF, Maven, Mockito, JUnit.\
-Version control: SVN, GitHub and GitLab.
-
-Databases: SQL Server, FireBird and Oracle, always using database programming using trigger, procedures and views.
-
 Dynamic, communicative, dedicated, easy to learn and easy to express opinions to offer better solutions for the projects in which I work.
+
+In some companies I acted as a reviewer of the changes that were thrown to GitHub and GitLab.
+
+Project being developed during Graduate studies: https://luisferrarezi.notion.site/Tiu-Lanches-818bd35f516d459d9525f3bc2f7c2af6
+
+Professional Experience:\
+Programming Languages: Java, JavaScript, AngularJs\
+Frameworks: JSP, JSF, Maven, Mockito, Spring, Rest, SOAP\
+Version control: SVN, GitHub and GitLab\
+DataBase Connections: JDBC, JPA\
+Databases: SQL Server, FireBird and Oracle, always using database programming.\
+Work Methodology: MVC, Scrum\
+
+Technical Knowledge:\
+Frameworks: JUnit, Flyway\
+Messaging: RabbitMQ\
+Work Methodology: TDD, BDD, Clean Architecture, SOLID
 
 Guys who came because Github Stats: the API probably went down in this period, but you can add your own by following this [tutorial](https://github.com/anuraghazra/github-readme-stats#readme).
 

@@ -26,12 +26,12 @@ Guys who came because Github Stats: the API probably went down in this period, b
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luisferrarezi&layout=compact)
 
 ## Certifications
-
 <a href="https://www.credly.com/badges/94316f44-da39-41d2-ba0f-29484bc1b949" target="_blank">
-  <img src="https://www.credly.com/badges/94316f44-da39-41d2-ba0f-29484bc1b949/public_url" alt="AWS Certified Developer - Associate" width="150">
+  <img src="images/aws-certified-developer-associate.png" alt="AWS Certified Developer - Associate" width="150">
 </a>
 
-<div style="display: inline_block"><br>
+## Tech Stacks
+<div style="display: inline_block">
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
   <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
@@ -40,7 +40,8 @@ Guys who came because Github Stats: the API probably went down in this period, b
   <img align="center" alt="Luis-AngularJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Luis-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
-<br> 
+
+## Professional Profile
 <div>     
   <a href="https://www.linkedin.com/in/luis-ferrarezi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>

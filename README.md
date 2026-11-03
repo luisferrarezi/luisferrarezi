@@ -25,6 +25,12 @@ Guys who came because Github Stats: the API probably went down in this period, b
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luisferrarezi&layout=compact)
 
+## Certifications
+
+<a href="https://www.credly.com/badges/94316f44-da39-41d2-ba0f-29484bc1b949" target="_blank">
+  <img src="https://www.credly.com/badges/94316f44-da39-41d2-ba0f-29484bc1b949/public_url" alt="AWS Certified Developer - Associate" width="150">
+</a>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
   <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
